@@ -48,6 +48,8 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[OP.GG](https://op.gg)**
 - **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
 - **[Lendio](https://lendio.com)**
+- hướng dẫn https://grok.com/share/c2hhcmQtMg%3D%3D_34151a12-0723-4538-bcdc-faaa35f0cf11
+  
 
 ## Contributing
 
