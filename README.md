@@ -60,40 +60,60 @@ Nếu chưa cài Composer, cài tại: https://getcomposer.org/download/
 cp .env.example .env
 
 APP_NAME=KTXManager
+
 APP_URL=http://localhost:8000
 
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=ktx_system
+
 DB_USERNAME=root
+
 DB_PASSWORD=    # điền mật khẩu nếu có
 
 ##Nếu không có database
+
 Vào phpMyAdmin hoặc dùng terminal để tạo:
+
 CREATE DATABASE ktx_db;
 
 composer dump-autoload
+
 php artisan migrate
+
 php artisan db:seed   # nếu bạn có Seeder
+
 php artisan serve
 
 ##Nếu có 
 
 composer install
+
 npm install && npm run build
+
 cp .env.example .env
 
 cấu hình env
+
 DB_CONNECTION=mysql
+
 DB_HOST=127.0.0.1
+
 DB_PORT=3306
+
 DB_DATABASE=ktx_system
+
 DB_USERNAME=root
+
 DB_PASSWORD=
 
 ##
 Tạo khóa ứng dụng và migrate (nếu cần)
+
 php artisan key:generate
 
 php artisan serve
