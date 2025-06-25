@@ -50,6 +50,8 @@ We would like to extend our thanks to the following sponsors for funding Laravel
 - **[Lendio](https://lendio.com)**
 - hướng dẫn 
 --------------------------------------------------------------------------
+https://drive.google.com/file/d/19brD9Ex5__iYTXd6nBJmIbx2GcH6LRhc/view?usp=sharing
+
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
